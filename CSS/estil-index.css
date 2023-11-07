@@ -15,7 +15,6 @@ body{
 
 header{
     background-color: #c979c4;
-	padding: 1em;
 
     display: flex;
     flex-direction: row;
@@ -29,46 +28,50 @@ header{
 	flex: 1;
 
 	display: flex;
-
-	border: 1px solid black;
 }
 
 
 #menu-desplegable{
-    text-align: left;
+    display: flex;
     flex: 4;
-
-	display: flex;
-    justify-content: space-between;
-    align-items: center;
-
-	border: 1px solid black;
 }
 
 nav{
-	margin: auto;
+	height:100%;
 	background-color: #c979c4;
 	font-size: 1em;
 }
+
 .menu-horizontal{
+	flex: 1;
+
 	list-style: none;
-	display: flex;	
+	display: flex;
+	flex-direction: row;
 	justify-content: space-between;
 }
 
+
+.menu-horizontal li{
+	padding: 1px;
+	flex: 1;
+
+	justify-content: center;
+	text-align: center;
+
+}
 
 .menu-horizontal li a{
 	padding: 1px;
 	color: white;
 	text-decoration: none;
-	border: 1px solid black;
-
+	padding: 5px;
 	flex: 1;
 }
 
-
 .menu-horizontal li:hover{
 	background-color: rgb(114, 6, 109);
+	
 }
 
 
@@ -77,6 +80,8 @@ nav{
 	display: none;
 	list-style: none;
 
+	width: auto;
+
 	background-color: rgb(114, 6, 109);
 }
 .menu-horizontal li:hover .menu-vertical{
@@ -84,19 +89,4 @@ nav{
 }
 .menu-vertical li:hover{
 	background-color: #c979c4;
-}
-
-.menu-vertical li a{
-	display: block;
-	color: white;
-	text-decoration: none;
-	padding: 15px 15px 15px 20px;
-}
-
-#html{
-	margin: auto;
-	padding: 20px;
-	max-width: 900px;
-	background: white;
-
 }
