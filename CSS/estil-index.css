@@ -11,54 +11,64 @@ body{
 
 	height: 100vh;
 	width: 100vw;
-	/*color:rgb(114, 6, 109);*/
+	/*
+    color:rgb(114, 6, 109);
+    #c979c4;
+    */
 }
 
 header{
     background-color: #c979c4;
 	height: 10%;
+    color: rgb(114, 6, 109);
 }
 
 nav{
     height: 5%;
-    background-color: #c979c4;
-
-    min-height: 2em; 
+    background-color:rgb(114, 6, 109);;
+    align-items: center; 
 }
-
+    
 #llistaDesplegable {
     list-style: none inside;
     text-align: center;
 }
-
+    
 #llistaDesplegable li {
     display: block;
     position: relative;
     float: left;
-
-    background-color: rgb(114, 6, 109);
+    background-color: rgb(114, 6, 109);    
 }
-
+    
 #llistaDesplegable li a {
     display: block;
     text-decoration: none;
-    width: 10em;
+    width: 10em;        
     line-height: 2em;
     color: #ffffff;
 }
-
+    
 #llistaDesplegable li:hover {
-    background-color: rgb(114, 6, 109);
+    background-color:#c979c4;
 }
-
+    
 #llistaDesplegable ul {
     position: absolute;
     padding: 0;
     left: 0;
     display: none;
 }
-
+    
 #llistaDesplegable li:hover ul {
     display: block;
 }
 
+main{
+    height: 70%;
+}
+
+footer{
+    height: 15%;
+    background-color: #c979c4;
+}
