@@ -11,82 +11,54 @@ body{
 
 	height: 100vh;
 	width: 100vw;
+	/*color:rgb(114, 6, 109);*/
 }
 
 header{
     background-color: #c979c4;
-
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-}
-
-#titol
-{
-	color:rgb(114, 6, 109);
-	
-	flex: 1;
-
-	display: flex;
-}
-
-
-#menu-desplegable{
-    display: flex;
-    flex: 4;
+	height: 10%;
 }
 
 nav{
-	height:100%;
-	background-color: #c979c4;
-	font-size: 1em;
+    height: 5%;
+    background-color:rgb(114, 6, 109);;
+
+    min-height: 2em; 
 }
 
-.menu-horizontal{
-	flex: 1;
-
-	list-style: none;
-	display: flex;
-	flex-direction: row;
-	justify-content: space-between;
+#llistaDesplegable {
+    list-style: none inside;
+    text-align: center;
 }
 
+#llistaDesplegable li {
+    display: block;
+    position: relative;
+    float: left;
 
-.menu-horizontal li{
-	padding: 1px;
-	flex: 1;
-
-	justify-content: center;
-	text-align: center;
-
+    background-color:rgb(114, 6, 109);
 }
 
-.menu-horizontal li a{
-	padding: 1px;
-	color: white;
-	text-decoration: none;
-	padding: 5px;
-	flex: 1;
+#llistaDesplegable li a {
+    display: block;
+    text-decoration: none;
+    width: 10em;
+    line-height: 2em;
+    color: #ffffff;
 }
 
-.menu-horizontal li:hover{
-	background-color: rgb(114, 6, 109);
-	
+#llistaDesplegable li:hover {
+    background-color: rgb(114, 6, 109);
 }
 
-
-.menu-vertical{
-	position: absolute;
-	display: none;
-	list-style: none;
-
-	width: auto;
-
-	background-color: rgb(114, 6, 109);
+#llistaDesplegable ul {
+    position: absolute;
+    padding: 0;
+    left: 0;
+    display: none;
 }
-.menu-horizontal li:hover .menu-vertical{
-	display: block;
+
+#llistaDesplegable li:hover ul {
+    display: block;
 }
-.menu-vertical li:hover{
-	background-color: #c979c4;
-}
+
