@@ -9,12 +9,13 @@
 body{
 	background-image: url(img/fondo.jpg);
 	background-size: cover;
-
+    background-color: #f5e6f4;
 	height: 100vh;
 	width: 100vw;
 	/*
     color:rgb(114, 6, 109);
     #c979c4;
+    #f5e6f4
     */
 }
 
@@ -52,8 +53,8 @@ nav{
 #llistaDesplegable li a {
     display: block;
     text-decoration: none;
-    width: 24em;        
-    line-height: 2em;
+    width: 25vw;        
+    line-height: 2vw;
     color: #ffffff;
 }
     
