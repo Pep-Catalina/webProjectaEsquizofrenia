@@ -23,15 +23,18 @@ header{
 	height: 10%;
     color: rgb(114, 6, 109);
 }
+h1{
+    text-align: center;
+    padding: 0.4em;
+}
 
 nav{
     height: 5%;
     width: 100%;
     background-color:rgb(114, 6, 109);;
-    align-items: center;
-    justify-content: center; 
+    text-align: center;
+ 
 }
-
 
 
 #llistaDesplegable {
@@ -49,7 +52,7 @@ nav{
 #llistaDesplegable li a {
     display: block;
     text-decoration: none;
-    width: 10em;        
+    width: 24em;        
     line-height: 2em;
     color: #ffffff;
 }
