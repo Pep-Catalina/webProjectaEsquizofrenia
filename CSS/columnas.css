@@ -5,12 +5,6 @@
     border: 0;
 }
 
-  header, aside, main, footer {
-    color: rebeccapurple;
-    background-color: gainsboro;
-    border: 1px solid black;
-}
-
 header {
     height: 20vh;
 
