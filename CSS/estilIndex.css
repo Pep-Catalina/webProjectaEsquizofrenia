@@ -27,4 +27,6 @@ article{
 }
 #dicimgIndex{
     text-align: center;
+    align-items: center;
+    justify-content: center;
 }
