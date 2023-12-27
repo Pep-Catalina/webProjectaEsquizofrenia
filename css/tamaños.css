@@ -4,7 +4,6 @@
     padding: 0;
     border: 0;
 
-    font-family:courier,arial,helvetica;
 }
 
 .flex{ display: flex}
@@ -15,7 +14,6 @@
 .purple{   background-color: rgb(114, 6, 109);}
 .purple2{ background-color: #c979c4;}
 .white{  background-color: white;}
-
 
 
 .size1{ flex: 1; }

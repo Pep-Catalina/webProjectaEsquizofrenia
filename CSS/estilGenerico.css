@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 *{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: 'Open Sans';
     text-decoration: none;
+
+    font-family:courier,arial,helvetica;
 }
 body{
 	background-image: url(img/fondo.jpg);
@@ -12,11 +12,7 @@ body{
     background-color: #f5e6f4;
 	height: 100vh;
 	width: 100vw;
-	/*
-    color:rgb(114, 6, 109);
-    #c979c4;
-    #f5e6f4
-    */
+
 }
 
 header{

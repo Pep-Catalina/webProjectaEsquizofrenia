@@ -3,18 +3,22 @@
     margin: 0;
     padding: 0;
     border: 0;
+
 }
 
 header {
-    height: 20vh;
+    height: 10vh;
 
+}
+nav{
+  height: 5vh;
 }
 aside, main {
     height: 70vh;
 }
 
 footer {
-    height: 10vh;
+    height: 15vh;
 }
 
 .row::after {
@@ -25,7 +29,7 @@ footer {
 
 [class*="col-"] {
     float: left;
-    padding: 15px;
+    padding: 0.938em;
 }
 
 /* Mobile First --> Default columns */
