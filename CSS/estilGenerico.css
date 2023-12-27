@@ -79,11 +79,16 @@ footer{
     justify-content: center;
     display: flex;
     text-align: center;
+
 }
 .footerBox{
     flex: 1;
-    padding: 0,25em;
+    padding: 1em;
     display: flex;
     flex-direction: column;
+}
+
+.footerBox p {
+    margin-bottom: 10px; /* Ajusta el valor según tus necesidades para controlar el espaciado vertical entre párrafos o bloques de texto */
 }
 
