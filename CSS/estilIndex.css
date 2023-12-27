@@ -1,36 +1,30 @@
 h2{
     padding: 0.5em;
 }
+main{
 
+}
 #divVideo{
-    display: flex;
     text-align: center;
     align-items: center;
     justify-content: center;
 
 }
 #video{
-    width: 35em;
-    height: 19.68em;
+    width: 50em;
+    height: 20em;
 }
-
 article{
-    display: flex;
-    flex-direction: row;
-}
 
+}
 #textoIndex{
-    display: 1;
-    display: flex;
     justify-content: center;
     align-items: center;
 }
-#divimgIndex{
-    display: 1;
-    display: flex;
-}
 #imgIndex{
-    display: flex;
-    width: 10em;
-    height: 10em;
+    width: 20em;
+    height: 20em;
+}
+#dicimgIndex{
+    text-align: center;
 }
