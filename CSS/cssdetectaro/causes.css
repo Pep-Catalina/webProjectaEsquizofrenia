@@ -1,0 +1,13 @@
+.divSON{
+    padding: 1em;
+}
+
+.imgCauses{
+    max-width: 10em;
+    max-height: 10em;
+}
+.divGRANDSON{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
