@@ -1,9 +1,7 @@
 h2{
     padding: 0.5em;
 }
-main{
 
-}
 #divVideo{
     text-align: center;
     align-items: center;
@@ -15,18 +13,19 @@ main{
     height: 20em;
 }
 article{
-
+    padding: 1em;
 }
 #textoIndex{
     justify-content: center;
     align-items: center;
 }
-#imgIndex{
-    width: 20em;
-    height: 20em;
-}
-#dicimgIndex{
+#divimgIndex{
+
     text-align: center;
     align-items: center;
     justify-content: center;
+}
+#imgIndex{
+    max-width: 38em;
+    max-height: 18.9em;
 }
