@@ -82,6 +82,9 @@ footer{
     text-align: center;
 
 }
+footer a:hover{
+    color:rgb(114, 6, 109);
+}
 .footerBox{
     flex: 1;
     padding: 1em;
