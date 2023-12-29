@@ -5,10 +5,9 @@
     text-decoration: none;
 
     font-family:courier,arial,helvetica;
+
 }
 body{
-	background-image: url(img/fondo.jpg);
-	background-size: cover;
     background-color: #f5e6f4;
 	height: 100vh;
 	width: 100vw;
@@ -22,7 +21,9 @@ header{
 }
 h1{
     text-align: center;
-    padding: 0.4em;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5em;
 }
 
 nav{
@@ -88,8 +89,8 @@ footer{
     flex-direction: column;
 }
 
-.footerBox p {
-    margin-bottom: 10px; /* Ajusta el valor según tus necesidades para controlar el espaciado vertical entre párrafos o bloques de texto */
+.footerBox p, a {
+    margin-bottom: 10px; 
 }
 
 

@@ -1,0 +1,15 @@
+.divDAD{
+    padding: 2em;
+}
+.divSON{
+    padding: 1em;
+}
+
+.imgInvestigacio{
+    height: 10em;
+    width: 10em;
+
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
