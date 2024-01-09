@@ -1,7 +1,22 @@
 .divDAD{
     gap: 10em;
 }
+h2{
+    padding-top: 0.75em;
+}
+h3{
+    padding-bottom: 1em;
+}
+.divSON{
+    padding: 0.75em;
+}
 #imgDiagnostics{
-    width: 10em;
-    height: 10em;
+    max-width: 25em;
+    max-height: 25em;
+}
+.divImg{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
 }
