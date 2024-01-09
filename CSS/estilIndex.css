@@ -15,9 +15,14 @@ h2{
 article{
     padding: 1em;
 }
+.articleText{
+    padding-top: 2em;
+}
 #textoIndex{
     justify-content: center;
     align-items: center;
+
+    padding-left: 1em;
 }
 #divimgIndex{
 
