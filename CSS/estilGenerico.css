@@ -5,7 +5,6 @@
     text-decoration: none;
 
     font-family: "Gill Sans", sans-serif;
-
 }
 body{
     background-color: white;
@@ -112,6 +111,11 @@ footer a:hover{
 .footerBox p, a {
     margin-bottom: 10px; 
     
+}
+
+.alignLeft{
+    text-align: left;
+    align-items: left;
 }
 
 
