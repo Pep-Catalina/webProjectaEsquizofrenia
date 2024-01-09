@@ -8,16 +8,16 @@
 
 }
 body{
-    background-color: #f5e6f4;
+    background-color: white;
 	height: 100%;
 	width: 100%;
 
 }
 
 header{
-    background-color: #c979c4;
+    background-color: #eabae7;
 	height: 10%;
-    color: rgb(114, 6, 109);
+    color: #c979c4;
 }
 h1{
     text-align: center;
@@ -29,7 +29,7 @@ h1{
 nav{
     height: 5%;
     width: 100%;
-    background-color:rgb(114, 6, 109);
+    background-color:#c979c4;
     text-align: center;
  
 }
@@ -43,7 +43,7 @@ nav{
     display: block;
     position: relative;
     float: left;
-    background-color: rgb(114, 6, 109);    
+    background-color: #c979c4;    
 }
     
 #llistaDesplegable li a {
@@ -55,7 +55,7 @@ nav{
 }
     
 #llistaDesplegable li:hover {
-    background-color:#c979c4;
+    background-color:#eabae7;
 }
     
 #llistaDesplegable ul {
@@ -89,7 +89,7 @@ main{
 
 footer{
     height: 15%;
-    background-color: #c979c4;
+    background-color: #eabae7;
     justify-content: center;
     display: flex;
     text-align: center;
@@ -100,7 +100,7 @@ footer{
 
 }
 footer a:hover{
-    color:rgb(114, 6, 109);
+    color: white;
 }
 .footerBox{
     flex: 1;
