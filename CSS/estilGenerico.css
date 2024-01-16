@@ -90,7 +90,7 @@ main{
   }
 
   ::-webkit-scrollbar-thumb:hover {   /* Cambio de color al pasar por encima */
-    background-color: white;
+    background-color: blue;
   }
   
 /* Hide scrollbar for Chrome, Safari and Opera */
@@ -130,7 +130,6 @@ footer a:hover{
     margin-bottom: 10px; 
     
 }
-
 .alignLeft{
     text-align: left;
     align-items: left;
