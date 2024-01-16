@@ -1,6 +1,24 @@
+h2{
+    padding: 2em;
+    padding-bottom: 0em;
+}
+.divSON{
+    padding-top: 5em;
+    padding-left: 3em;
+    
+}
+.divText{
+    justify-content: center;
+    
+    
+}
+.divGRANDSON{
+    padding: 1em;
+}
+
 .imgCasos{
-    max-width: 10em;
-    max-height: 10em;
+    max-width: 20em;
+    max-height: 20em;
 }
 
 
