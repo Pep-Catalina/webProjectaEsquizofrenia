@@ -2,14 +2,15 @@ h2{
     padding: 2em;
     padding-bottom: 1.5em;
 }
-.divSON{
-    padding-top: 1em;
-    padding-left: 3em;
-    
-    
+.divGRANDSON{
+    padding-left: 2em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
 }
-.divSON p{
-    padding: 0.30em;
+.divImg{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 .imgTIPUS{
     height: 20em;
