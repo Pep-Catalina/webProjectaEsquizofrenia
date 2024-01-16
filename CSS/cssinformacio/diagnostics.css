@@ -1,21 +1,18 @@
+.divDAD{
+    gap: 10em;
+}
 h2{
-    padding: 2em;
-    padding-bottom: 0em;
+    padding-top: 0.75em;
 }
 h3{
-    padding: 2em;
+    padding-bottom: 1em;
 }
 .divSON{
-    padding-left: 2em;
-    padding-top: 0.60em;
-    padding-bottom: 0.60em;
-}
-.divSON p{
-    padding: 0.5em;
+    padding: 0.75em;
 }
 #imgDiagnostics{
-    max-width: 20em;
-    max-height: 20em;
+    max-width: 25em;
+    max-height: 25em;
 }
 .divImg{
     justify-content: center;
