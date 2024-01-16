@@ -19,3 +19,7 @@ h2{
     width: 25em;
     
 }
+main{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}

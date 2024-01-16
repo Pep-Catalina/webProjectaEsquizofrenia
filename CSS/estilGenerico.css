@@ -76,7 +76,7 @@ main{
 }
 /* Estilo del scrollbar */
 ::-webkit-scrollbar {
-    width: 12px; /* Tamaño scrollbar */
+    width: 0.75em; /* Tamaño scrollbar */
   }
   
   ::-webkit-scrollbar-track {
@@ -85,7 +85,7 @@ main{
   
   ::-webkit-scrollbar-thumb {
     background-color: #d94ed0; /* Color de scrollbar  */
-    border-radius: 6px; /* Borde redondeado del thumb */
+    border-radius: 0.375em; /* Borde redondeado del thumb */
   }
 
   ::-webkit-scrollbar-thumb:hover {   /* Cambio de color al pasar por encima */
