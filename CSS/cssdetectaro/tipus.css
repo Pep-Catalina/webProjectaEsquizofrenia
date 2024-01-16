@@ -1,8 +1,17 @@
-.divSON{
-    padding: 1em;
+h2{
+    padding: 2em;
+    padding-bottom: 1.5em;
 }
-
+.divSON{
+    padding-top: 1em;
+    padding-left: 3em;
+    
+    
+}
+.divSON p{
+    padding: 0.30em;
+}
 .imgTIPUS{
-    height: 10em;
-    width: 10em;
+    height: 20em;
+    width: 20em;
 }
