@@ -1,7 +1,14 @@
+h2{
+    padding: 2em;
+    padding-bottom: 1.5em;
+}
 .divSON{
-    padding: 1em;
+    padding-top: 1em;
+    padding-left: 3em;
+    
+    
 }
 .imgOrigen{
-    max-width: 10em;
-    max-height: 10em;
+    max-width: 20em;
+    max-height: 20em;
 }

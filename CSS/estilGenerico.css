@@ -81,16 +81,16 @@ main{
   }
   
   ::-webkit-scrollbar-track {
-    background-color: #eabae7; /* Color fondo scrollbar */
+    background-color: gray; /* Color fondo scrollbar */
   }
   
   ::-webkit-scrollbar-thumb {
-    background-color: #c979c4; /* Color de scrollbar  */
+    background-color: black; /* Color de scrollbar  */
     border-radius: 6px; /* Borde redondeado del thumb */
   }
 
   ::-webkit-scrollbar-thumb:hover {   /* Cambio de color al pasar por encima */
-    background-color: #c655be;
+    background-color: white;
   }
   
 /* Hide scrollbar for Chrome, Safari and Opera */
