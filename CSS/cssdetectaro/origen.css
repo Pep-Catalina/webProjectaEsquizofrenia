@@ -1,10 +1,21 @@
 h2{
-    padding: 2em;
+    padding: 1.5em;
 }
 .divSON{
     padding: 1em;
+    padding-bottom: 2.5em;
 }
-.imgOrigen{
-    max-width: 10em;
-    max-height: 10em;
+.imgorigen{
+    width: 20em;
+    height: 20em;
+
+}
+.divGRANDSON{
+    padding-left: 1.5em;
+    text-align: justify;
+}
+.divImg{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
