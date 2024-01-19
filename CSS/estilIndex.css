@@ -1,11 +1,12 @@
 h2{
-    padding: 0.5em;
+    padding: 1.5em;
 }
 
 #divVideo{
     text-align: center;
     align-items: center;
     justify-content: center;
+    padding-bottom: 6.25em;
 
 }
 #video{
@@ -28,4 +29,10 @@ article{
 #imgIndex{
     max-width: 38em;
     max-height: 18.9em;
+}
+.divSON{
+    padding-bottom: 4em;
+    padding-left: 2.5em;
+    padding-right: 2em;
+    
 }

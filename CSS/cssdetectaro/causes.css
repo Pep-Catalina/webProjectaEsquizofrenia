@@ -1,5 +1,13 @@
+h2{
+    padding: 2em;
+}
+
 .divSON{
-    padding: 1em;
+    padding: 2em;
+
+    align-items: center;
+    text-align: center;
+    justify-content: center;
 }
 
 .imgCauses{
