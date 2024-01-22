@@ -1,21 +1,35 @@
 h2{
     padding: 2em;
+    padding-bottom: 0em;
 }
-
 .divSON{
-    padding: 2em;
-
-    align-items: center;
-    text-align: center;
-    justify-content: center;
-}
-
-.imgCauses{
-    max-width: 10em;
-    max-height: 10em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 3em;
+    padding-right: 3em;
 }
 .divGRANDSON{
+    justify-content: center;
+    align-items: center;
+}
+.divImg{
+    padding-top: 1em;
+    padding-bottom: 1em;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.imgCauses{
+    max-width: 25em;
+    max-height: 25em;
+
+}
+.divText{
     align-items: center;
     text-align: center;
     justify-content: center;
+    padding: 1em;
+}
+#divBottom{
+    padding-bottom: 2.5em;
 }
