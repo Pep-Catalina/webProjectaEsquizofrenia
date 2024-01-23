@@ -1,24 +1,52 @@
 h2{
-    padding: 0.5em;
+    padding: 1.5em;
 }
 
-#divDAD{
-    align-items: center;
-    justify-content: center;
-
-}
 .divSON{
-    padding: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
 }
-#imgSimptomes{
+.divGRANDSON{
+    padding: 1em;
+
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.divText{
+    padding: 0.5em;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.divTextooo{
+    padding-top: 2.5em;
+    padding-left: 2.5em;
+    align-items: center;
+    text-align: left;
+}
+.divTextFinal{
+    padding: 0.5em;
+    padding-left: 2.5em;
+    
+    justify-content: center;
+    text-align: left;
+}
+.divImg{
+    padding-top: 1em;
     align-items: center;
     justify-content: center;
     text-align: center;
-
-    height: 10em;
-    width: 10em;
+}
+#imgSimptomes{
+    max-height: 20em;
+    max-width: 20em;
 }
 table{
     border-collapse: separate;
     border-spacing: 3em;
+}
+#divBottom{
+    padding-bottom: 3em;
 }
