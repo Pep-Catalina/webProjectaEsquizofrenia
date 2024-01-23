@@ -1,15 +1,25 @@
-.divDAD{
+h2{
     padding: 2em;
+    padding-bottom: 0em;
+}
+h3{
+    padding-bottom: 1em;
 }
 .divSON{
-    padding: 1em;
+    padding: 4em;
+
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
-
-.imgFamiliars{
-    height: 10em;
-    width: 10em;
-
+.divImg{
     align-items: center;
     text-align: center;
     justify-content: center;
+}
+.imgFamiliars{
+    max-height: 20em;
+    max-width: 20em;
+
+    
 }
