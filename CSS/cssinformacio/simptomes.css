@@ -19,6 +19,7 @@ h2{
     justify-content: center;
     align-items: center;
     text-align: center;
+
 }
 .divTextooo{
     padding-top: 2.5em;
@@ -40,8 +41,8 @@ h2{
     text-align: center;
 }
 #imgSimptomes{
-    max-height: 20em;
-    max-width: 20em;
+    max-height: 35em;
+    max-width: 35em;
 }
 table{
     border-collapse: separate;

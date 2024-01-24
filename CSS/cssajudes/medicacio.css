@@ -20,35 +20,23 @@ h2{
     align-items: center;
     text-align: center;
 }
-.table{
-    padding: 2em;
-}
-table tr, td{
-    padding-top: 1em;
-    padding-bottom: 1em;
-    padding-left: 0.60em;
-    padding-right: 0.60em
-}
 #divBottom{
     padding-bottom: 2.5em;
 }
-/*.divDAD{
- padding: 2em;    
-}
-.divSON{
-    padding: 1em;
-}
-
-.tabla{
-    justify-content: center;
+.divGRANDSON{
+    
     align-items: center;
     text-align: center;
+    text-align: justify;
 }
-th{
-    padding-left: 5em;
-    padding-right: 5em;
+h4{
+    padding: 1.5em;
 }
-table tr, td{
-    padding: 1em;
-}*/
+dl{
+    padding: 0.5em;
+}
+dl dt{
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+}
 
