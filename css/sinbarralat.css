@@ -1,0 +1,6 @@
+main{
+    overflow: scroll;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    overflow: hidden;
+}
