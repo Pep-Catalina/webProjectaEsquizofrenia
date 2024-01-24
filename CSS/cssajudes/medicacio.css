@@ -1,4 +1,38 @@
-.divDAD{
+h2{
+    padding: 2em;
+}
+.divSON{
+    padding: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+    text-align: justify;
+}
+.divImg{
+    padding: 2em;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+#medicamentsImg{
+    max-width: 20em;
+    max-height: 20em;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.table{
+    padding: 2em;
+}
+table tr, td{
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 0.60em;
+    padding-right: 0.60em
+}
+#divBottom{
+    padding-bottom: 2.5em;
+}
+/*.divDAD{
  padding: 2em;    
 }
 .divSON{
@@ -16,5 +50,5 @@ th{
 }
 table tr, td{
     padding: 1em;
-}
+}*/
 
