@@ -4,6 +4,7 @@ h2{
 .divSON{
     padding: 1em;
     padding-bottom: 2.5em;
+    
 }
 .imgorigen{
     width: 20em;
@@ -13,6 +14,9 @@ h2{
 .divGRANDSON{
     padding-left: 1.5em;
     text-align: justify;
+    justify-content: center;
+    align-items: center;
+    
 }
 .divImg{
     text-align: center;
