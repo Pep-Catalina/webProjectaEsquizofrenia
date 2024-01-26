@@ -1,7 +1,12 @@
 h2{
     padding: 1.5em;
+    
 }
-
+.divTitulo{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
 #divVideo{
     text-align: center;
     align-items: center;
@@ -10,8 +15,8 @@ h2{
 
 }
 #video{
-    width: 50em;
-    height: 20em;
+    width: 55em;
+    height: 35em;
 }
 article{
     padding: 1em;
