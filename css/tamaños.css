@@ -12,9 +12,9 @@
 .column{ flex-direction: column;}
 .row-reverse{ flex-direction: row-reverse;}
 
-.purple{   background-color: rgb(114, 6, 109);}
+/*.purple{   background-color: rgb(114, 6, 109);}
 .purple2{ background-color: #c979c4;}
-.white{  background-color: white;}
+.white{  background-color: white;}*/
 
 
 .size1{ flex: 1; }
