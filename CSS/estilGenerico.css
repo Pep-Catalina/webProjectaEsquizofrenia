@@ -14,9 +14,9 @@ body{
 }
 
 header{
-    background-color: #eabae7;
+    background-color: purple;
 	height: 10%;
-    color: #c979c4;
+    color: white;
 }
 h1{
     text-align: center;
@@ -28,8 +28,8 @@ h1{
 nav{
     height: 5%;
     width: 100%;
-    background-color:#c979c4;
-    color: black;
+    background-color:white;
+    color: white;
     text-align: center;
  
 }
@@ -56,7 +56,7 @@ nav{
 }
     
 #llistaDesplegable li:hover {
-    background-color:#eabae7;
+    background-color:#c979c4;
 }
     
 #llistaDesplegable ul {
@@ -106,17 +106,21 @@ main{
 
 footer{
     height: 15%;
-    background-color: #eabae7;
+    background-color: rgb(128, 0, 128);
     justify-content: center;
     display: flex;
     text-align: center;
-
+    color: white;
     position: fixed;
    left: 0;
    bottom: 0;
 
 }
 footer a:hover{
+    color: #c979c4;
+}
+
+footer a {
     color: white;
 }
 .footerBox{
